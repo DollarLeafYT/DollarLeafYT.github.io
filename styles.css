@@ -3,13 +3,11 @@ body {
     background-image: url("firebackround.png");
     text-align: center;
 }
-
 a {
     color:blue;
     font-family: 'Courier New', Courier, monospace;
 
 }
-
 h1 {
     color:green;
     font-family: 'Courier New', Courier, monospace;
